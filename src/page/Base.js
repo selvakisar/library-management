@@ -14,7 +14,7 @@ function Base({children}) {
           <Sidebar />
         </div>
         <div className="divider lg:divider-horizontal bg-accent"></div>
-        <div className=" flex-col h-screen w-4/5 card m-2 bg-base-400   rounded-box place-items-center">
+        <div   style={{ backgroundImage: 'url("https://cdn.dribbble.com/users/1936570/screenshots/15671618/media/8b5f68528a7089ad95e2cb9a98f3977f.gif")'}} className=" flex-col h-screen w-4/5 card m-2 bg-base-400   rounded-box place-items-center">
                 {children}
         </div>
       </div>
