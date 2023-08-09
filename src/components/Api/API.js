@@ -1,0 +1,1 @@
+export const Api="https://64912bd72f2c7ee6c2c7d270.mockapi.io/auth"
